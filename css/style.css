@@ -4,14 +4,13 @@ body {
 }
 
 .header{
-background-image: url("./resources/the-flatiron-building.png");
-
+background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
+color: white;
 }
 
 h1{
   font-size: 71px;
   font-weight: bold;
-  color: white;
 }
 
 h2{
@@ -28,6 +27,9 @@ p{
   font-size: 14px;
 }
 
-h3.subheading{
+#footer{
+  text-align: left;
+  font-size: 11px;
   color: white;
+  background-color: dimgray;
 }
